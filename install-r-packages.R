@@ -15,5 +15,5 @@ install.packages(c("devtools",
                    "rgeos",
                    "rgdal",
                    "XML",
-                   "knitr",
-                   dependencies = TRUE))
+                   "knitr"),
+                   dependencies = TRUE)
