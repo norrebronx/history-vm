@@ -25,10 +25,6 @@ list of packages that I commonly use. If you want to check a package
 that you are developing, you will need to install all of its
 dependencies. You can do that by adding to this file.
 
-Setting up the entire development environment takes eight minutes or so
-if you've already downloaded the Ubuntu Vagrant box, but this will
-depend on your internet connection speed and computer's speed.
-
 ### TODO
 
 -   Install [RStudio Server][] and use port forwarding in Vagrant to be
